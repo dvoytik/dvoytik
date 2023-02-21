@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvoytik
 - 👀 I’m interested in RISC-V, Rust, low level system SW development
 - 🌱 I’m currently learning RISC-V specs, Rust, etc.
-- 💞️ I’m looking to collaborate on above topics
+- 💞️ I’m looking for opportunities on the above topics
 - 📫 You can reach me via e-mail voytikd at gmail com
 
 <!---
